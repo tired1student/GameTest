@@ -5,6 +5,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    //²âÊÔÓÃµÄĞŞ¸Ä¡ª¡ªtired1student
+
     private Rigidbody2D rb;
     private Animator anim;
     private Collider2D col;
