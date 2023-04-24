@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 public class BirdController : MonoBehaviour
 {
     //hahahahahaha---song223314
-
+    //hahahahahaha---bjt
     private Collider2D col;
     private Rigidbody2D rb;
 
