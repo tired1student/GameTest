@@ -10,6 +10,7 @@ TagManager:
   - Components
   - Ladder
   - SetLadder
+  - coll
   layers:
   - Default
   - TransparentFX
@@ -58,4 +59,7 @@ TagManager:
     locked: 0
   - name: CoverPlayer
     uniqueID: 4049808003
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 1112220767
     locked: 0
